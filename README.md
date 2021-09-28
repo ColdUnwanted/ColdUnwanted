@@ -7,6 +7,8 @@
 - ✍️ &nbsp;In my free time, I pursue Graphics Design.
 - 💬 &nbsp;I'm completely open to discussions and getting to know each other.
 
+<img alt="Coding" src="https://raw.githubusercontent.com/ColdUnwanted/ColdUnwanted/main/Coding.gif" width="300" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 __Languages__ <br>
