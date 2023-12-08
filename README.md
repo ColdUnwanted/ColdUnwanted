@@ -3,9 +3,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 😄 Pronouns: __he/him/his__.
-- 🎓 &nbsp;I'm currently pursuing __Computer Science BSc__ program at the __INTI International College Subang in Collaboration with Swinburne University__.
-- ✍️ &nbsp;In my free time, I pursue Graphics Design.
-- 💬 &nbsp;I'm completely open to discussions and getting to know each other.
 
 <img alt="Coding" src="https://raw.githubusercontent.com/ColdUnwanted/ColdUnwanted/main/Coding.gif" width="300" align="right"/>
 
