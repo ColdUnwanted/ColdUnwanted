@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-### 👨🏻‍💻 &nbsp;About Me
-
-- 😄 Pronouns: __he/him/his__.
-
 <img alt="Coding" src="https://raw.githubusercontent.com/ColdUnwanted/ColdUnwanted/main/Coding.gif" width="300" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
